@@ -1,4 +1,4 @@
-# Data-Science
+# Mathematics and Data-Science
 **About me**
 - I have been coding since 2008, started with formally learning to code in **Java** (received an A at a premiere Institute in India). Completed several projects with **C++** and **MATLAB** and did a research project using **FORTRAN**! All of this during my undergraduate degree. It is true that once you understand one programming language, it is relatively easy to learn a new one. I wrote 1000s of lines of codes and ran simulations on clusters and adapted simulations to perform parallel computing. 
 - During my undergraduate, I published algorithms to predict the accuracy of Markov chain models with applications in Molecular simulations using kinetic Monte Carlo. 
@@ -8,10 +8,5 @@
 - Nowadays, I routinely use **Jupyter Notebooks (Python)** to develop visualisations to aid in teaching complex and abstract mathematical concepts. I enjoy working with students and help them in their coding journey. I have managed several projects which involved coding in **Wolfram Alpha (Wolfram Notebooks)**, **Perl**, **LaTeX**, **HTML**, and **Maple**. With this repository, I aim to take the users through the journey of using Python in Data Science applications. 
 
 **Content description**
-This repository will aim to include my projects where I have analysed data and applied machine learning concepts to gain insights. Below are some key summary potints about the content of this repository:
-
-1. I have designed the content to serve as annotated notes for someone with basic background in Python to understand why we use certain steps.
-2. In some cases, I have applied methods on well-known datasets while in other cases, I have analysed my own datasets (*which are quite messy and the point here is to gain practice with working on messy datasets as life is not as clean as well-known datasets!*)
-3. The order of the content is more logical and is supposed to help someone embarking on this beautiful journey of using Python for Data Science.
-4. The emphasis is on concepts and syntax of the code. 
+This repository will aim to include my projects where I have used interesting visualisations to explain abstract concepts to undergraduate students as part of my instruction of Mathematics Fundamentals and Engineering Mathematics courses. I will also include some advanced analysis using fipy to solve partial differential equations. 
 
