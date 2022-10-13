@@ -1,4 +1,4 @@
-# Mathematics and Data-Science
+# Mathematical concepts made easy
 **About me**
 - I have been coding since 2008, started with formally learning to code in **Java** (received an A at a premiere Institute in India). Completed several projects with **C++** and **MATLAB** and did a research project using **FORTRAN**! All of this during my undergraduate degree. It is true that once you understand one programming language, it is relatively easy to learn a new one. I wrote 1000s of lines of codes and ran simulations on clusters and adapted simulations to perform parallel computing. 
 - During my undergraduate, I published algorithms to predict the accuracy of Markov chain models with applications in Molecular simulations using kinetic Monte Carlo. 
